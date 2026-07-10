@@ -138,7 +138,7 @@ first-document-ai-project/
 
 ---
 
-# 七、导师检查（Supervisor Checklist）
+# 七、自我检查列表（Checklist）
 
 在进入下一部分之前，请导师确认以下内容。
 
