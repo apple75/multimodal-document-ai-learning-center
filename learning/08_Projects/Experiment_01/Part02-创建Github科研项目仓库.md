@@ -313,7 +313,7 @@ LICENSE
 
 ---
 
-# 九、导师检查（Supervisor Checklist）
+# 九、自我检查列表（Checklist）
 
 请导师逐项检查：
 
