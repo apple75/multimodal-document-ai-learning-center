@@ -559,7 +559,7 @@ outputs/json/.gitkeep
 
 ---
 
-# 十二、导师检查（Supervisor Checklist）
+# 十二、自我检查列表（Checklist）
 
 | 检查项             | 状态 |
 | --------------- | -- |
