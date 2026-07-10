@@ -176,3 +176,5 @@ assets/
 * 参与实验室科研项目
 
 欢迎开始你的 **Multimodal Document AI** 学习之旅！
+
+Last Updated: 2026-07-10
