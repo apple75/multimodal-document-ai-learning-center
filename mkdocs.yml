@@ -44,7 +44,7 @@ nav:
       - 欢迎: index.md
 
   - About:
-      - 平台介绍: about/README.md
+      - 平台介绍: about/readme.md
       - 平台架构: about/architecture.md
       - 建设路线图: about/roadmap.md
 
@@ -64,42 +64,35 @@ nav:
 
       - Foundation Models:
           - 概览: learning/06_Foundation_Models/README.md
-          - Qwen3.5-vl-0.8B: learning/06_Foundation_Models/Qwen3.5-vl-0.8B.md
+          - Qwen3.5-vl-0.8B: learning/06_Foundation_Models/Qwen3.5-VL-0.8B.md
 
       - Document AI:
           - 概览: learning/07_Document_AI/README.md
+          - 文档智能化简介: learning/07_Document_AI/00_Introduction.md
+
 
       - Projects:
           - 概览: learning/08_Projects/README.md
 
-      - FAQ:
-          - 常见问题: learning/09_FAQ.md
+      - FAQ: learning/09_FAQ.md
 
   - Reading:
 
-      - 概览: reading/README.md
+      - 概览: reading/readme.md
 
-      - Foundation Models:
-          - Foundation Models: reading/foundation.md
+      - Foundation Models: reading/foundation.md
 
-      - Vision Language Models:
-          - Vision Language Models: reading/vlm.md
+      - Vision Language Models: reading/vlm.md
 
-      - Document AI:
-          - Document AI: reading/document-AI.md
-          - DocTags: reading/doctags.md
+      - Document AI: reading/document-AI.md
+      - DocTags: reading/doctags.md
 
-      - Benchmarks:
-          - Benchmarks: reading/benchmark.md
+      - Benchmarks: reading/benchmark.md
 
-      - Surveys:
-          - Survey Papers: reading/surveys.md
+      - Surveys: reading/surveys.md
 
-  - Tutorials:
-
+  - Tutorials: 
       - 概览: tutorials/README.md
-      - Qwen3-VL 教程: tutorials/kaggle-tutorial-01.md
+      - Qwen3-VL教程: tutorials/kaggle-tutorial-01.md
 
-  - Resources:
-
-      - 概览: resources/README.md
+  - Resources: resources/README.md
