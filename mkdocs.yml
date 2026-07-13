@@ -94,7 +94,7 @@ nav:
 - About:
 
     - 平台介绍:
-        - 关于 Learning Center: about/README.md
+        - 关于 Learning Center: about.md
 
 # ==========================
 # 学习中心
@@ -159,11 +159,11 @@ nav:
 
 
 
-    - Research Projects:
+    - Experiments:
 
 
         - 项目概览:
-            learning/08_Projects/README.md
+            learning/08_Experiments/README.md
 
 
 
@@ -183,7 +183,7 @@ nav:
 
 
     - 阅读指南:
-        reading/readme.md
+        reading/README.md
 
 
     - Surveys:
