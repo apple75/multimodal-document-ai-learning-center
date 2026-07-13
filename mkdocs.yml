@@ -1,15 +1,11 @@
 site_name: Multimodal Vision AI Learning Center
-
-site_description: >
-  Open Learning and Research Platform for Multimodal Vision AI
-
+site_description: Open Learning Platform for Multimodal Vision AI
 site_author: Guoping Tan
 
-site_url: https://apple75.github.io/multimodal-document-ai-learning-center/
+site_url: https://multimodal-vision-ai.github.io/multimodal-document-ai-learning-center/
 
-
-repo_name: apple75/multimodal-document-ai-learning-center
-repo_url: https://github.com/apple75/multimodal-document-ai-learning-center
+repo_name: multimodal-vision-ai/multimodal-document-ai-learning-center
+repo_url: https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center
 
 
 theme:
@@ -267,3 +263,8 @@ nav:
 
     - Resources Overview:
         resources/README.md
+
+
+copyright: |
+  Copyright © 2026 Multimodal Vision AI Lab.
+  All rights reserved.
