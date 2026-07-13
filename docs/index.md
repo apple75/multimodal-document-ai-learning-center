@@ -299,4 +299,6 @@ AI 时代已经开始。
 
 # ❤️ Start Your AI Journey
 
+➡️ [开始AI之旅](learning/README.md)
+
 > **Learn · Build · Experiment · Research**

@@ -591,3 +591,5 @@ data/samples/
 * 分析 Prompt 对推理效果的影响；
 * 建立 Prompt 管理规范；
 * 完成第一份实验分析报告。
+
+➡️ [进入 Part 06：Prompt设计与实验分析](Part06-提示词管理与对比分析.md)

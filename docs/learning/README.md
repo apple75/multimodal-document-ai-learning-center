@@ -240,7 +240,7 @@
 完整实验案例：
 
 
-➡️ [Experiment 01](08_Projects/Experiment_01/readme.md)
+➡️ [Experiment 01](08_Experiments/Experiment_01/README.md)
 
 
 
@@ -306,23 +306,23 @@
 完成 Learning 模块后，建议进入：
 
 
-📖 Reading
+📖 [进入 Reading Center](../reading/README.md)
 
 阅读经典论文和技术报告
 
 
 ↓
 
-💻 Tutorials
+💻  [进入 Tutorials](../tutorials/README.md)
 
-完成模型实验
+AI模型实验自学教程
 
 
 ↓
 
-🔬 Research Projects
+🔬  [进入 Experiments](08_Experiments/README.md)
 
-开展科研工作
+开展实验研究工作
 
 
 

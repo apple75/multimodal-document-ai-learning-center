@@ -73,7 +73,7 @@ readings/
 | Layout Analysis        | Layout Analysis Survey     |
 | Document Parsing       | Docling Technical Report   |
 
-📖 阅读入口：[综述论文](00_surveys.md)
+📖 阅读入口：[综述文献](00_surveys.md)
 
 ---
 
