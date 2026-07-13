@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/figs/prism_brain_logo.svg" width="220">
+<img src="assets/figs/prism_brain_logo.svg" width="600">
+
+</div>
 
 # 🎓 Multimodal Vision AI Learning Center
 
 **An Open Learning Platform for Multimodal Vision AI**
-
-</div>
 
 > **Learn · Build · Experiment · Research**
 
