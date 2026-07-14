@@ -105,14 +105,6 @@ nav:
     - 学习路线:
         - Learning Overview: learning/README.md
 
-
-    - 实验室介绍:
-
-        - 实验室简介:
-            learning/00_Lab_Introduction.md
-
-
-
     - 开发环境:
 
         - Git 与 GitHub:
@@ -130,40 +122,19 @@ nav:
         - Transformers:
             learning/05_Transformers.md
 
-
-
-    - Foundation Models:
-
-
-        - 模块介绍:
-            learning/06_Foundation_Models/README.md
-
+    - 基础模型:
 
         - Qwen3-VL:
-            learning/06_Foundation_Models/Qwen3.5-VL-0.8B.md
+            learning/06-1_Qwen3.5-VL-0.8B.md
 
         - Docling:
-            learning/06_Foundation_Models/Docling.md
-
-
-    - Document AI:
-
-
-        - 模块介绍:
-            learning/07_Document_AI/README.md
-
-
-        - 文档智能简介:
-            learning/07_Document_AI/00_Introduction.md
-
-
+            learning/06-2_Docling.md
 
 
     - FAQ:
 
         - 常见问题:
             learning/09_FAQ.md
-
 
 
 
@@ -218,7 +189,6 @@ nav:
 # ==========================
 
 - Tutorials:
-
 
     - Tutorial Overview:
         tutorials/README.md

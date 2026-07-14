@@ -1,4 +1,4 @@
-# Chapter 7：Docling
+# Chapter 6.2：Docling
 
 # Docling for Multimodal Document AI
 
@@ -302,4 +302,6 @@ experiments/
 * 实验室整体技术路线
 
 完成后，你将建立完整的 Document AI 知识体系，为后续科研和项目开发奠定基础。
+
+[上一章](06-1_Qwen3.5-VL-0.8B.md){ .md-button }    [下一章](07_Doc_AI.md){ .md-button }
 

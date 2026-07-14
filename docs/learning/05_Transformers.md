@@ -328,3 +328,5 @@ https://huggingface.co/docs
 
 完成后，你将能够独立运行 Qwen3.5-VL-0.8B，并开展 Document AI 相关实验。
 
+[上一章](04_Kaggle.md){ .md-button }    [下一章](06-1_Qwen3.5-VL-0.8B.md){ .md-button }
+

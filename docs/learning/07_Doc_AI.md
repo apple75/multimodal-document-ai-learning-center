@@ -1,4 +1,4 @@
-# Chapter 8：Document AI
+# Chapter 7：Document AI
 
 # Introduction to Document AI
 
