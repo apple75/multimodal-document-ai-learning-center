@@ -42,7 +42,7 @@ Resources 模块包含四类核心学习资源：
 | Category | Description | Navigation |
 |---|---|---|
 | 📊 Datasets | AI 数据集与 Benchmark 资源 | [Datasets Resources](datasets.md) |
-| 🔓 Open Source Projects | 官方开源项目与技术生态 | [Open Source Resources](open-sources.md) |
+| 🔓 Official Resources | 官方开源项目与技术生态 | [Official Resources](official-sources.md) |
 | 📄 Papers | 经典论文与技术报告 | [Paper Resources](papers.md) |
 | 🛠️ Tools | AI 开发工具与平台 | [Tool Resources](tools.md) |
 ------------------------------------------------------------------------
