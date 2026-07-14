@@ -11,12 +11,9 @@
 - 科研实验方法
 
 
-本学习路线采用：
+本学习路线采用以下模式：
 
 > **理论学习 + 工程实践 + 科研实验**
-
-三位一体培养模式。
-
 
 ---
 
@@ -173,9 +170,9 @@
 
 当前课程：
 
-- [Qwen3.5-VL-0.8B模型实践](06_Foundation_Models/Qwen3.5-VL-0.8B.md)
+- [Qwen3.5-VL-0.8B模型实践](06-1_Qwen3.5-VL-0.8B.md)
 
-- [Docling文档解析模型](06_Foundation_Models/Docling.md)
+- [Docling文档解析模型](06-2_Docling.md)
 
 
 
@@ -185,12 +182,6 @@
 
 
 学习多模态文档智能技术。
-
-
-进入模块：
-
-➡️ [Document AI学习模块](07_Document_AI/README.md)
-
 
 
 主要内容：
@@ -240,7 +231,7 @@
 完整实验案例指导：
 
 
-➡️ [Experiment 01](..Experiment_01/README.md)
+➡️ [Experiment 01](../experiments/Experiment_01/README.md)
 
 
 

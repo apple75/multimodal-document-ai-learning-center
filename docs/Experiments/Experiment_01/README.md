@@ -1,4 +1,4 @@
-# 🧪 Experiment 01：Multimodal Vision AI 基础实验
+# 🧪 Experiment 01：Multimodal Docs AI 实验
 
 本实验是 **Multimodal Vision AI Learning Center** 第一个科研实践项目。
 

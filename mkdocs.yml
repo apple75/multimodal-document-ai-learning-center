@@ -231,10 +231,10 @@ nav:
 
 - Experiments:
     - 实验概览:
-        Experiments/README.md
+        experiments/README.md
 
     - 实验一 Multimodal Docs AI 实验: 
-        Experiments/Experiment_01/README.md
+        experiments/Experiment_01/README.md
 
 # ==========================
 # 科研资源

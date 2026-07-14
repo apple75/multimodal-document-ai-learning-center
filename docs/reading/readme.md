@@ -4,7 +4,7 @@
 >
 > **Last Updated:** July 2026
 
-本目录收录 **Multimodal Document AI** 方向最值得阅读的论文、官方项目和开源资源。
+本目录收录 **Multimodal Document AI** 方向值得阅读的论文、官方项目和开源资源。
 
 所有论文均按照学习路线组织，建议按照顺序阅读。
 

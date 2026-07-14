@@ -274,11 +274,11 @@ Benchmark
 
 下一章学习：
 
-> **Chapter 9：First Research Project**
+> ** First Research Project **
 
 主要内容包括：
 
-* 实验室第一个完整项目
+* 第一个完整项目
 * 数据准备
 * 模型运行
 * 实验记录
@@ -287,3 +287,5 @@ Benchmark
 * GitHub 项目管理
 
 完成后，你将独立完成第一个 Multimodal Document AI 科研实践项目，并掌握实验室标准的项目开发流程。
+
+[上一章](06-2_Docling.md){ .md-button }    [下一章](../experiments/Experiment_01/README.md){ .md-button }
