@@ -201,10 +201,12 @@ nav:
         tutorials/README.md
 
 
-    - Qwen3-VL实验:
+    - Tutorials:
 
-        - Kaggle Notebook:
-            tutorials/kaggle-tutorial-01.md
+        - Qwen2.5-OminiDocbench Kaggle Notebook:
+            tutorials/Qwen2.5-OmniDocBench-kaggle-tutorial.md
+        - Qwen3.5-VL-SFT-GRPO Official Tutorial:
+            tutorials/Qwen3.5-VL-SFT-GRPO-tutorial.md
 
 - Experiments:
     - 实验概览:
