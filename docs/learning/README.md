@@ -7,7 +7,7 @@
 - 多模态大模型（Vision Language Models）
 - 文档智能（Document AI）
 - 视觉人工智能（Vision AI）
-- 大模型工程实践
+- 大模型工程训练与评测实践
 - 科研实验方法
 
 
@@ -33,7 +33,9 @@
 
 ✅ 开展 Document AI 实验
 
-✅ 完成模型测试、评测和分析
+✅ 开展 AI 模型后训练(Post Training)实验
+
+✅ 完成 AI 模型测试、评测和分析
 
 ✅ 独立开展 AI 科研实验
 
@@ -178,10 +180,30 @@
 ➡️ [Document AI简介](07_Doc_AI.md)
 
 
+# 📄 Stage 4：Qwen3.5-VL 后训练（Post-Training）
+
+学习 Qwen3.5-VL 多模态模型的后训练（Post-Training）技术，掌握实验室当前统一采用的训练框架、微调方法及实验管理工具。
+
+主要内容：
+
+- MS-SWIFT 训练框架
+- Qwen3.5 Best Practice
+- LoRA / QLoRA 微调
+- SFT（Supervised Fine-Tuning）
+- GRPO（Group Relative Policy Optimization）
+- Weights & Biases（实验管理）
+- Evaluation（模型评测）
+
+课程：
+
+➡️ [Qwen3.5-VL 后训练学习](08_Post-Training.md)
+
+
 
 ---
 
-# 🔬 Stage 4：科研项目实践
+
+# 🔬 Stage 5：科研项目实践
 
 
 通过完整项目训练科研能力。
@@ -236,8 +258,8 @@
 | Week 2 | Hugging Face + Transformers |
 | Week 3 | Foundation Models |
 | Week 4 | Document AI |
-| Week 5 | 第一个科研实验 |
-| Week 6+ | 独立科研项目 |
+| Week 5 | Post Training |
+| Week 6+ | 第一个科研实验 |
 
 
 
