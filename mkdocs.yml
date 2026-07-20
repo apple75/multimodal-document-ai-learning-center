@@ -130,6 +130,10 @@ nav:
         - Docling:
             learning/06-2_Docling.md
 
+    - 模型微调:
+
+        - Post Training:
+            learning/08-1_Post_Training.md
 
     - FAQ:
 
