@@ -299,6 +299,6 @@ Paper
 
 完成后，你将独立完成第一个 Multimodal Document AI 科研实践项目，并掌握实验室标准的项目开发流程。
 
-[上一章](07_Doc_AI_.md){ .md-button }    [下一章](../experiments/Experiment_01/README.md){ .md-button }
+[上一章](07_Doc_AI.md){ .md-button }    [下一章](../experiments/Experiment_01/README.md){ .md-button }
 
 

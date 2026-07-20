@@ -129,6 +129,10 @@ nav:
 
         - Docling:
             learning/06-2_Docling.md
+    - 文档智能:
+
+        - Document AI:
+            learning/07_Doc_AI.md
 
     - 模型微调:
 
@@ -220,6 +224,8 @@ nav:
         resources/README.md
     - Official Resources:
         resources/official-sources.md
+    - Recommended Courses:
+        resources/courses.md    
     - Papers:
         resources/papers.md
     - Datasets:

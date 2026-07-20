@@ -41,7 +41,7 @@ Resources 模块包含四类核心学习资源：
 
 | Category | Description | Navigation |
 |---|---|---|
-| 📄 Books | 推荐AI书籍与教学资源 | [Book Resources](books.md) |
+| 📄 Courses | 推荐AI书籍与教学资源 | [Course Resources](course.md) |
 | 📊 Datasets | AI 数据集与 Benchmark 资源 | [Datasets Resources](datasets.md) |
 | 🔓 Official Resources | 官方开源项目与技术生态 | [Official Resources](official-sources.md) |
 | 📄 Papers | 经典论文与技术报告 | [Paper Resources](papers.md) |

@@ -1,4 +1,4 @@
-# 📖 Recommended Books & Courses
+# 📖 Recommended Courses
 
 建议优先学习官方教材、经典开源课程和国际一流高校课程，逐步建立 **Deep Learning → Large Language Models → Multimodal AI → AI Agents** 的完整知识体系。
 

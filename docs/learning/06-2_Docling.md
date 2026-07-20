@@ -291,7 +291,7 @@ experiments/
 
 下一章学习：
 
-> **Chapter 8：Document AI**
+> **Chapter 7：Document AI**
 
 主要内容包括：
 
