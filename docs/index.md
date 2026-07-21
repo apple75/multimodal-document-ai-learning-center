@@ -22,15 +22,11 @@
     </a>
   </div>
 
-  <!-- 4. 标语与导航 -->
   <b>🚀 Explore AI. Build AI. Create the Future.</b>
-  <p style="margin-top: 6px;">
-    <a href="https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center/tree/main/docs/learning/README.md"><b>📖 开始 AI 之旅</b></a> 
-    &nbsp;&nbsp; | &nbsp;&nbsp; 
-    <a href="https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center/issues/new"><b>🛠️ 快速提交建议</b></a>
-  </p>
 </div>
 <hr>
+  <!-- 4. 导航部分：切换为 Markdown 格式 (注意上下空行) -->
+[**📖 开始 AI 之旅**](learning/README.md) &nbsp; | &nbsp; [**🛠️ 快速提交建议**](https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center/issues/new)
 
 ---
 
@@ -86,11 +82,7 @@
 <div align="center">
   <h2>🏁 准备好了吗？</h2>
   <p><b>不要只是等待 AI 改变世界，尝试成为创造 AI 的人。</b></p>
-  <p style="margin-top: 20px; margin-bottom: 20px;">
-        <a href="https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center/tree/main/docs/learning/README.md">
-            <img src="https://img.shields.io/badge/%F0%9F%91%89_%E7%AB%8B%E5%8D%B3%E8%BF%9B%E5%85%A5%E5%AD%A6%E4%B9%A0%E7%9B%AE%E5%BD%95-blue?style=for-the-badge" alt="进入学习目录" height="60">
-        </a>
-  </p>
 </div>
 
+[**📖 开始 AI 之旅**](learning/README.md)
 ---
