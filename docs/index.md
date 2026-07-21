@@ -1,304 +1,96 @@
 <div align="center">
+  <!-- 1. Logo -->
+  <img src="assets/figs/prism_brain_logo.svg" width="550" alt="Logo">
 
-<img src="assets/figs/prism_brain_logo.svg" width="600">
+  <!-- 2. 古代哲思：增加出处 -->
+  <p style="margin-top: 12px; margin-bottom: 12px;">
+    <i style="font-family: '楷体', serif; color: #444; font-size: 1.15em;">
+      “目贵明，耳贵聪，心贵智。”
+    </i>
+    <br>
+    <span style="color: #777; font-size: 0.85em;">
+      —— <b>《管子·九守》</b> | 赋予机器明辨之目、聪慧之耳与思考之魂
+    </span>
+  </p>
 
+  <!-- 3. 计数器与反馈 -->
+  <div style="margin-bottom: 12px;">
+    <img src="https://komarev.com/ghpvc/?username=multimodal-document-ai-learning-center&label=VISITS&color=0172ad&style=flat-square">
+    &nbsp;
+    <a href="https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center/issues/new" target="_blank">
+      <img src="https://img.shields.io/badge/Feedback-Issues-blue?style=flat-square&logo=github">
+    </a>
+  </div>
+
+  <!-- 4. 标语与导航 -->
+  <b>🚀 Explore AI. Build AI. Create the Future.</b>
+  <p style="margin-top: 6px;">
+    <a href="learning/README.md"><b>📖 开始 AI 之旅</b></a> 
+    &nbsp;&nbsp; | &nbsp;&nbsp; 
+    <a href="https://github.com/multimodal-vision-ai/multimodal-document-ai-learning-center/issues/new"><b>🛠️ 快速提交建议</b></a>
+  </p>
+</div>
+<hr>
+
+---
+
+## 🎯 核心聚焦 (Core Pillars)
+
+| 📷 Vision AI | 📄 Document AI |
+| :--- | :--- |
+| **让机器拥有“视觉”：**<br>图像分类、目标检测、视觉推理及分析 | **理解人类创造的文档：**<br>文档解析、OCR 识别、表格理解与知识抽取等 |
+| **🧠 Vision Language Models** | **🤖 AI Applications** |
+| **探索新一代多模态大模型：**<br>Qwen-VL、DeepSeek-VL、Prompt Engineering等 | **构建真实场景应用：**<br>AI 助手、构建知识库、AI Agent 及垂直领域应用系统等 |
+
+---
+
+## 🗺 学习探索路线图 (Roadmap)
+*从探索者成长为创造者的四个阶段*
+
+#### **📍Level 1: Explorer (基础)**
+- **掌握：** Python, Git, Linux, GPU 计算, Hugging Face, Transformers。
+- **目标：** 能够独立运行并调试开源 AI 项目。
+
+#### **📍Level 2: Reader (理解)**
+- **掌握：** 顶会论文阅读、技术博客分析、Benchmark 报告评估。
+- **目标：** 从“会调包”走向“懂原理”，理解模型设计初衷。
+
+#### **📍Level 3: Builder (创造)**
+- **掌握：** 数据集制作、模型微调 (Fine-tuning)、代码重构、项目实战。
+- **目标：** 训练出属于自己的模型并解决实际问题。
+
+#### **📍Level 4: Researcher (探索)**
+- **掌握：** 复现 SOTA 实验、设计创新方法、撰写科研论文。
+- **目标：** 从 AI 使用者成长为 AI 领域的研究贡献者。
+
+---
+
+## 🌍 全球开源生态链接
+*本平台深度集成以下核心资源*
+
+| 资源平台 | 用途 | 访问 |
+| :--- | :--- | :--- |
+| **GitHub** | 代码实现与协作 | [访问](https://github.com/) |
+| **Hugging Face** | 模型权重与数据集 | [访问](https://huggingface.co/) |
+| **arXiv** | 获取最新科研动态 | [访问](https://arxiv.org/) |
+| **Kaggle** | 云端实验与算力 | [访问](https://www.kaggle.com/) |
+
+---
+
+## 💡 核心原则 (Principles)
+
+> <b>Learn from the Best</b> · <b>Build with Open Source</b> · <b>Experiment Continuously</b> · <b>Research Deeply</b>
+
+<hr>
+
+<div align="center">
+  <h2>🏁 准备好了吗？</h2>
+  <p><b>不要只是等待 AI 改变世界，尝试成为创造 AI 的人。</b></p>
+  <p style="margin-top: 20px; margin-bottom: 20px;">
+        <a href="learning/README.md">
+            <img src="https://img.shields.io/badge/%F0%9F%91%89_%E7%AB%8B%E5%8D%B3%E8%BF%9B%E5%85%A5%E5%AD%A6%E4%B9%A0%E7%9B%AE%E5%BD%95-blue?style=for-the-badge" alt="进入学习目录" height="60">
+        </a>
+  </p>
 </div>
 
-# 🎓 Multimodal Vision AI Learning Center
-
-**An Open Learning Platform for Multimodal Vision AI**
-
-> 🚀 Explore AI. Build AI. Create the Future.
-
-欢迎来到 **Multimodal Vision AI Learning Center**！
-
-这里是一个面向 AI 爱好者的学习与实践空间。
-
-如果你对下面这些问题感兴趣：
-
-- 🤖 AI 是如何看懂图片和视频的？
-- 📄 为什么大模型可以阅读复杂文档？
-- 🧠 GPT、Qwen、LLaVA 这些模型到底是怎么工作的？
-- 🚀 如何自己训练一个 AI 模型？
-- 🔬 如何从一个想法开始做 AI 科研？
-
-那么，你来到了正确的地方。
-
 ---
-
-# 🌟 Why Multimodal AI?
-
-人工智能正在快速改变世界。
-
-未来的 AI 不只是聊天机器人，而是能够：
-
-- 👀 看见世界
-- 📖 积累知识
-- 🧠 理解复杂信息
-- 🎥 分析视频内容
-- 🤝 与人和环境交互
-
-
-多模态 AI（Multimodal AI）正在成为下一代人工智能的重要方向。
-
----
-
-# 🛠 What Can You Build?
-
-在这里，你不仅学习 AI，还可以亲手创造真实的 AI 系统。
-
----
-
-## 📷 Vision AI
-
-让计算机理解视觉世界：
-
-- 图像分类
-- 目标检测
-- 图像理解
-- 视频分析
-- 视觉推理
-
-你将学习：
-
-> 如何让机器拥有“视觉”。
-
----
-
-## 📄 Document AI
-
-让 AI 阅读真实世界的信息：
-
-- PDF 智能解析
-- OCR 文档识别
-- 表格理解
-- 文档问答
-- 知识抽取
-
-你将探索：
-
-> 如何让 AI 理解人类创造的复杂文档。
-
----
-
-## 🧠 Vision Language Models
-
-探索最新一代多模态大模型：
-
-- Qwen-VL
-- LLaVA
-- DeepSeek-VL
-- GPT-4V 类模型
-
-学习：
-
-- 图像与语言融合
-- 多模态理解
-- Prompt Engineering
-- 模型推理与优化
-
----
-
-## 🤖 AI Applications
-
-构建面向真实世界的智能应用：
-
-- AI 助手
-- 智能知识库
-- AI Agent
-- 行业智能系统
-- 垂直领域 AI 应用
-
----
-
-# 🗺 Your AI Adventure Map
-
-AI 学习不是记忆知识，而是一场探索之旅。
-
-
----
-
-# 📚 Level 1  
-# Become an AI Explorer
-
-## 学习基础能力
-
-你将掌握：
-
-- Python Programming
-- Git & GitHub
-- Linux Environment
-- GPU Computing
-- Deep Learning
-- Hugging Face
-- Transformers
-- Foundation Models
-
-目标：
-
-> 能够打开一个开源 AI 项目，并成功运行它。
-
----
-
-# 📖 Level 2  
-# Become an AI Reader
-
-## 阅读并理解现代 AI
-
-优秀 AI 研究者首先是优秀阅读者。
-
-一起探索：
-
-- 最新论文
-- 技术博客
-- 开源项目
-- Benchmark 报告
-
-理解：
-
-- 为什么设计这个模型？
-- 它解决了什么问题？
-- 还有哪些改进空间？
-
-目标：
-
-> 从“会调用模型”走向“理解模型”。
-
----
-
-# 💻 Level 3  
-# Become an AI Builder
-
-## 动手创造 AI
-
-AI 的能力来自实践。
-
-你将尝试：
-
-🔥 跑通开源模型
-
-🔥 修改模型代码
-
-🔥 制作数据集
-
-🔥 训练自己的模型
-
-🔥 完成 AI 项目
-
-
-学习 AI 最好的方式：
-
-> **Build something.**
-
----
-
-# 🔬 Level 4  
-# Become an AI Researcher
-
-## 探索 AI 前沿问题
-
-进一步进入科研阶段：
-
-研究方向包括：
-
-- Multimodal Foundation Models
-- Vision Language Models
-- Document Intelligence
-- Efficient AI
-- AI for Vertical Applications
-
-训练能力：
-
-- 阅读论文
-- 复现实验
-- 设计方法
-- 分析结果
-- 撰写论文
-
-目标：
-
-> 从 AI 使用者成长为 AI 创造者。
-
----
-
-# 🌍 AI Open Source World
-
-本平台连接全球 AI 开源生态。
-
-| Platform | Purpose |
-|----------|---------|
-| GitHub | Code & Collaboration |
-| Hugging Face | Models & Datasets |
-| Kaggle | Cloud Experiments |
-| arXiv | Latest Research |
-
-
----
-
-# 🏆 After This Journey
-
-完成学习路线后，你将不再只是：
-
-❌ 使用 AI 工具的人
-
-而是：
-
-✅ 能运行 AI 模型的人
-
-✅ 能理解 AI 技术的人
-
-✅ 能开发 AI 应用的人
-
-✅ 能开展 AI 科研的人
-
----
-
-# 🚀 Ready?
-
-AI 时代已经开始。
-
-不要只是等待 AI 改变世界。
-
-尝试成为创造 AI 的人。
-
-
-欢迎访问：
-
-# Multimodal Vision AI Learning Center
-
-
-> Learn · Build · Experiment · Research
-
----
-
-# 💡 Learning Principles
-
-我们坚持：
-
-## 📚 Learn from the Best
-
-学习优秀论文、官方文档和开源项目。
-
-
-## 🌍 Build with Open Source
-
-拥抱全球 AI 开源生态。
-
-
-## 🧪 Experiment Continuously
-
-通过实验真正理解 AI。
-
-
-## 🔬 Research Deeply
-
-从实践走向创新。
-
-
----
-
-# ❤️ Start Your AI Journey
-
-➡️ [开始AI之旅](learning/README.md)
-
-> **Learn · Build · Experiment · Research**
